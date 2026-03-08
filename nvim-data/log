@@ -1,0 +1,52 @@
+WRN 2025-12-27T16:10:12.756 ui.10728   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T17:47:57.966 ui.3592    tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T17:55:55.225 ui.6008    tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T17:58:26.321 ui.19720   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T18:26:03.946 ui.25440   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T18:30:11.907 ui.22772   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T20:33:46.157 ui.19468   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T20:39:18.367 ui.3100    tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T20:41:25.402 ui.5312    tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-27T20:42:56.581 ui.10636   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-28T18:25:48.620 ui.19740   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-28T18:32:43.150 ui.19868   tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2025-12-28T18:45:10.550 ui.8992    tui_stop:654: TUI: timed out waiting for DA1 response
+WRN 2026-01-05T17:09:22.548 ui.14888   tui_stop:654: TUI: timed out waiting for DA1 response
+ERR 2026-01-05T17:18:06.794 nvim.5480.0 decor_provider_error:36: Error in decoration provider "win" (ns=nvim.lsp.inlayhint):
+Error executing lua: ...im/current/share/nvim/runtime/lua/vim/lsp/inlay_hint.lua:349: Invalid 'col': out of range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	...im/current/share/nvim/runtime/lua/vim/lsp/inlay_hint.lua:349: in function <...im/current/share/nvim/runtime/lua/vim/lsp/inlay_hint.lua:303>
+	[C]: in function 'nvim_command'
+	...a/Local/nvim-data/lazy/nui.nvim/lua/nui/popup/border.lua:626: in function '_relayout'
+	...ata/Local/nvim-data/lazy/nui.nvim/lua/nui/popup/init.lua:390: in function 'update_layout'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:246: in function <...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:245>
+	[C]: in function 'pcall'
+	...a/Local/nvim-data/lazy/noice.nvim/lua/noice/view/nui.lua:143: in function 'reset'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:133: in function 'check_options'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:159: in function 'display'
+	...vim-data/lazy/noice.nvim/lua/noice/view/backend/mini.lua:100: in function 'update'
+	...
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/init.lua:146: in function 'fn'
+	vim/_editor.lua:615: in function 'fn'
+	vim/_editor.lua:366: in function <vim/_editor.lua:365>
+ERR 2026-01-05T17:18:06.813 nvim.5480.0 decor_provider_error:36: Error in decoration provider "win" (ns=nvim.lsp.inlayhint):
+Error executing lua: ...im/current/share/nvim/runtime/lua/vim/lsp/inlay_hint.lua:349: Invalid 'col': out of range
+stack traceback:
+	[C]: in function 'nvim_buf_set_extmark'
+	...im/current/share/nvim/runtime/lua/vim/lsp/inlay_hint.lua:349: in function <...im/current/share/nvim/runtime/lua/vim/lsp/inlay_hint.lua:303>
+	[C]: in function 'nvim_command'
+	...ovim/current/share/nvim/runtime/lua/vim/lsp/handlers.lua:28: in function 'err_message'
+	...ovim/current/share/nvim/runtime/lua/vim/lsp/handlers.lua:676: in function 'handler'
+	...neovim/current/share/nvim/runtime/lua/vim/lsp/client.lua:682: in function 'fn'
+	vim/_editor.lua:366: in function <vim/_editor.lua:365>
+ERR 2026-01-08T15:18:06.228 nvim.6604.0 os_conpty_set_size:173: ResizePseudoConsoel failed: error code: -4083
+ERR 2026-01-08T15:21:58.384 nvim.6604.0 os_conpty_set_size:173: ResizePseudoConsoel failed: error code: -4083
+ERR 2026-01-08T21:48:40.364 nvim.26424.0 os_conpty_set_size:173: ResizePseudoConsoel failed: error code: -4083

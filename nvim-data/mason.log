@@ -1,0 +1,615 @@
+[INFO  12/27/2025 6:19:24 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/27/2025 6:19:24 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/27/2025 6:19:24 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shfmt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 6:19:25 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 6:19:25 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 6:19:25 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=shfmt)
+[INFO  12/27/2025 6:19:26 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=stylua)
+[INFO  12/27/2025 6:21:55 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 6:21:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 6:21:57 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 6:22:09 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/27/2025 6:22:14 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)
+[INFO  12/27/2025 6:25:12 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 6:25:13 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 6:25:13 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 6:29:14 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 6:29:15 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 6:29:15 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 6:42:29 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shellcheck) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/27/2025 6:42:29 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=flake8) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/27/2025 6:42:29 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 6:42:30 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 6:42:30 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 6:42:31 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=shellcheck)
+[INFO  12/27/2025 6:42:54 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 6:42:55 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 6:42:55 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 6:43:09 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=json-lsp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/27/2025 6:43:09 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/27/2025 6:43:21 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=json-lsp)
+[INFO  12/27/2025 6:43:22 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=pyright)
+[INFO  12/27/2025 6:44:11 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 6:44:11 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 6:44:12 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:02:01 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:02:02 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:02:02 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:05:56 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:05:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:05:57 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:06:07 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:06:08 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:06:08 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:06:19 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:06:20 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:06:20 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:09:30 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:09:31 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:09:31 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:09:45 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:09:46 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:09:46 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:11:00 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:11:01 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:11:01 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:47:29 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:47:32 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:47:32 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 7:47:52 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 7:47:52 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 7:47:52 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 8:28:13 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 8:28:14 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:15 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[ERROR 12/27/2025 8:28:43 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="unzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:43 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:43 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:43 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:43 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:43 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:43 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:44 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:44 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:44 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:28:44 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[INFO  12/27/2025 8:30:26 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 8:30:27 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:27 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 8:30:40 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 8:30:41 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:41 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[ERROR 12/27/2025 8:30:47 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="unzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:47 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:30:48 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[INFO  12/27/2025 8:32:06 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 8:32:07 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:07 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="unzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:32:57 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[INFO  12/27/2025 8:33:43 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 8:33:44 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:33:44 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/27/2025 8:34:22 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/27/2025 8:34:23 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 12/27/2025 8:34:23 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=tree-sitter-cli) error='Tried to link bin "tree-sitter" to non-existent target "tree-sitter-windows-x64.exe".'
+[INFO  12/28/2025 10:18:45 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=flake8) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/28/2025 10:18:45 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:172: Lockfile already exists. Package(name=flake8)
+[ERROR 12/28/2025 10:18:45 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=flake8) error="Lockfile exists, installation is already running in another process (pid: 25372). Run with :MasonInstall --force to bypass."
+[INFO  12/28/2025 10:20:01 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/28/2025 10:30:37 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/28/2025 10:31:08 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=jdtls) error='spawn: pwsh failed with exit code 1 and signal 0. \27[31;1mInvoke-WebRequest: \27[31;1mThe request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.\27[0m\r\n\nFailed to download file "https://download.eclipse.org/jdtls/milestones/1.54.0/jdt-language-server-1.54.0-202511261751.tar.gz".'
+[ERROR 12/29/2025 1:38:29 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/29/2025 1:38:30 PM] ...l/nvim-data/lazy/mason.nvim/lua/mason-core/providers.lua:81: Provider "github" "get_latest_release" failed: spawn: pwsh failed with exit code 1 and signal 0. [31;1mInvoke-WebRequest: [31;1mNo such host is known.[0m
+
+[ERROR 12/29/2025 1:38:30 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gh", err="ENOENT: no such file or directory"
+[ERROR 12/29/2025 1:38:30 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/29/2025 1:38:30 PM] ...l/nvim-data/lazy/mason.nvim/lua/mason-core/providers.lua:81: Provider "github" "get_latest_release" failed: spawn: pwsh failed with exit code 1 and signal 0. [31;1mInvoke-WebRequest: [31;1mNo such host is known.[0m
+
+[ERROR 12/29/2025 1:38:30 PM] ...l/nvim-data/lazy/mason.nvim/lua/mason-core/providers.lua:92: No provider implementation succeeded for github.get_latest_release
+[ERROR 12/29/2025 1:38:30 PM] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:145: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR 12/29/2025 1:38:30 PM] ...al/nvim-data/lazy/mason.nvim/lua/mason-registry/init.lua:126: Failed to update registries. { "GitHubRegistrySource(repo=mason-org/mason-registry) failed to install: Failed to fetch latest registry version from GitHub API." }
+[INFO  12/29/2025 8:04:49 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/29/2025 8:06:52 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/29/2025 8:07:23 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=jdtls) error='spawn: pwsh failed with exit code 1 and signal 0. \27[31;1mInvoke-WebRequest: \27[31;1mThe request was canceled due to the configured HttpClient.Timeout of 30 seconds elapsing.\27[0m\r\n\nFailed to download file "https://download.eclipse.org/jdtls/milestones/1.54.0/jdt-language-server-1.54.0-202511261751.tar.gz".'
+[INFO  12/29/2025 8:14:37 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR 12/29/2025 8:18:59 PM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 12/29/2025 8:24:55 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=jdtls) error='spawn: pwsh failed with exit code 1 and signal 0. \27[31;1mInvoke-WebRequest: \27[31;1mOne or more errors occurred. (Unable to read data from the transport connection: An established connection was aborted by the software in your host machine..)\27[0m\r\n\nFailed to download file "https://download.eclipse.org/jdtls/milestones/1.54.0/jdt-language-server-1.54.0-202511261751.tar.gz".'
+[INFO  12/29/2025 8:47:32 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/29/2025 8:48:01 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=jdtls)
+[INFO  12/29/2025 10:55:26 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=clangd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  12/29/2025 10:55:37 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=clangd)
+[INFO  1/8/2026 12:25:00 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=codelldb) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/8/2026 12:25:08 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=codelldb)
+[INFO  1/8/2026 3:13:27 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=flake8) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/8/2026 3:13:27 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=pyright) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/8/2026 3:13:27 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=flake8) {
+  bypass_permit = true
+}
+[WARN  1/8/2026 3:13:27 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=flake8)
+[INFO  1/8/2026 3:13:27 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=flake8)
+[INFO  1/8/2026 3:13:41 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=flake8)
+[INFO  1/8/2026 3:13:47 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=pyright) {
+  bypass_permit = true
+}
+[INFO  1/8/2026 3:13:49 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=pyright)
+[INFO  1/8/2026 3:13:49 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=pyright)
+[INFO  1/8/2026 3:36:04 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=java-debug-adapter) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/8/2026 3:36:09 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=java-debug-adapter)
+[INFO  1/8/2026 3:53:26 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=java-test) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/8/2026 3:53:30 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=java-test)
+[INFO  1/8/2026 11:31:33 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=netcoredbg) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/8/2026 11:31:35 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=netcoredbg)
+[INFO  1/10/2026 8:34:14 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 8:34:21 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=omnisharp)
+[INFO  1/10/2026 9:15:12 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {}
+[ERROR 1/10/2026 9:15:12 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:15:24 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:15:35 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  1/10/2026 9:15:35 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 1/10/2026 9:15:35 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 1/10/2026 9:15:35 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:20:20 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:20:29 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  1/10/2026 9:20:29 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 1/10/2026 9:20:29 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 1/10/2026 9:20:29 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:20:36 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:20:42 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  1/10/2026 9:20:42 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 1/10/2026 9:20:42 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 1/10/2026 9:20:42 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:23:40 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:23:51 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  1/10/2026 9:23:51 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 1/10/2026 9:23:51 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 1/10/2026 9:23:51 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:23:57 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:24:35 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=jdtls) {
+  bypass_permit = true
+}
+[INFO  1/10/2026 9:24:35 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=jdtls)
+[INFO  1/10/2026 9:24:35 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=jdtls)
+[INFO  1/10/2026 9:24:40 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:25:24 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  1/10/2026 9:25:24 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 1/10/2026 9:25:24 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 1/10/2026 9:25:24 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:25:48 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:25:57 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  1/10/2026 9:25:57 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 1/10/2026 9:25:57 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 1/10/2026 9:25:57 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:26:44 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:26:49 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  1/10/2026 9:26:49 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 1/10/2026 9:26:49 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 1/10/2026 9:26:49 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  1/10/2026 9:30:29 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {}
+[WARN  1/10/2026 9:30:29 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[INFO  1/10/2026 9:30:29 PM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=omnisharp)
+[INFO  1/10/2026 9:32:14 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  1/10/2026 9:32:19 PM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=omnisharp)
+[INFO  2/18/2026 12:25:24 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:25:30 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[ERROR 2/18/2026 12:25:30 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:25:30 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:25:49 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:25:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:25:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:25:54 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:25:54 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:26:20 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:26:26 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=lua-language-server) {
+  bypass_permit = true
+}
+[ERROR 2/18/2026 12:26:26 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=lua-language-server) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/lua-language-server".'
+[ERROR 2/18/2026 12:26:26 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=lua-language-server) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/lua-language-server".'
+[INFO  2/18/2026 12:26:40 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:26:52 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:26:52 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:26:52 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:26:52 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:29:37 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:29:48 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:29:48 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:29:48 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:29:48 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:31:15 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=java-test) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:31:15 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=jdtls) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:31:15 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:31:15 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:31:24 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=java-test) {
+  bypass_permit = true
+}
+[INFO  2/18/2026 12:31:24 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=java-test)
+[INFO  2/18/2026 12:31:24 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=java-test)
+[INFO  2/18/2026 12:31:25 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=lua-language-server) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:31:25 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=lua-language-server)
+[INFO  2/18/2026 12:31:25 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=lua-language-server)
+[INFO  2/18/2026 12:31:25 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)
+[INFO  2/18/2026 12:31:49 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=jdtls) {
+  bypass_permit = true
+}
+[INFO  2/18/2026 12:31:49 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=jdtls)
+[INFO  2/18/2026 12:31:50 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=jdtls)
+[INFO  2/18/2026 12:31:53 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:31:53 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:31:53 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:31:53 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:32:20 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:32:30 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:32:30 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:32:30 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:32:30 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:32:47 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:32:55 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:32:55 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:32:55 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:32:55 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:34:39 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:34:48 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:34:48 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[INFO  2/18/2026 12:34:48 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=omnisharp)
+[INFO  2/18/2026 12:34:48 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=omnisharp)
+[ERROR 2/18/2026 12:44:30 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="unzip", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:30 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:30 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:44:31 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[INFO  2/18/2026 12:49:26 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=clangd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:49:35 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=clangd) {
+  bypass_permit = true
+}
+[INFO  2/18/2026 12:49:35 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=clangd)
+[INFO  2/18/2026 12:49:35 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=clangd)
+[INFO  2/18/2026 12:53:18 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=csharp-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:53:32 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=csharp-language-server)
+[ERROR 2/18/2026 12:53:59 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="unzip", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:53:59 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:53:59 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gzip", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 2/18/2026 12:54:00 AM] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:226: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[INFO  2/18/2026 12:58:02 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {}
+[ERROR 2/18/2026 12:58:02 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:59:27 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {}
+[WARN  2/18/2026 12:59:27 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:59:27 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 12:59:31 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=omnisharp) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  2/18/2026 12:59:40 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {
+  bypass_permit = true
+}
+[WARN  2/18/2026 12:59:40 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 12:59:40 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[ERROR 2/18/2026 12:59:40 AM] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 1:03:36 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {}
+[WARN  2/18/2026 1:03:36 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[ERROR 2/18/2026 1:03:36 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:68: Uninstallation failed for Package(name=omnisharp) error='.../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:52: ...ta/Local/nvim-data/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "C:/Users/Viet/AppData/Local/nvim-data/mason/packages/omnisharp".'
+[INFO  2/18/2026 1:04:51 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:37: Executing uninstaller for Package(name=omnisharp) {}
+[WARN  2/18/2026 1:04:51 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:46: Receipt not found when uninstalling Package(name=omnisharp)
+[INFO  2/18/2026 1:04:52 AM] .../mason.nvim/lua/mason-core/installer/UninstallRunner.lua:61: Uninstallation succeeded for Package(name=omnisharp)

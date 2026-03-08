@@ -1,0 +1,164 @@
+!SESSION 2026-01-07 16:43:36.078 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/Bai1DeonJava
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:38.114
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:38.324
+!MESSAGE Started org.eclipse.buildship.core 106ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:38.326
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:39.724
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:40.213
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:40.228
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.352
+!MESSAGE ProjectRegistryRefreshJob finished 3026ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.408
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.409
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.487
+!MESSAGE RepositoryRegistryUpdateJob finished 6ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.508
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.529
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.683
+!MESSAGE Workspace initialized in 202ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:41.743
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-07 16:43:43.611
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:43.711
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:43.713
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:43.728
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:43.980
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:44.692
+!MESSAGE begin problem for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:44.695
+!MESSAGE 1 problems reported for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:43:44.720
+!MESSAGE Validated 1. Took 86 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:05.766
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:06.231
+!MESSAGE begin problem for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:06.231
+!MESSAGE 3 problems reported for /De1.java
+
+!ENTRY org.eclipse.core.jobs 4 2 2026-01-07 16:44:06.233
+!MESSAGE An internal error occurred during: "Publish Diagnostics".
+!STACK 0
+java.lang.IndexOutOfBoundsException
+	at org.eclipse.jdt.ls.core.internal.DocumentAdapter.getChar(DocumentAdapter.java:207)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.getSourceStart(BaseDiagnosticsHandler.java:407)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.convertRange(BaseDiagnosticsHandler.java:367)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.toDiagnosticsArray(BaseDiagnosticsHandler.java:257)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.endReporting(BaseDiagnosticsHandler.java:148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.reportProblems(ReconcileWorkingCopyOperation.java:157)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:126)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:751)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:816)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1431)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:338)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:301)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$PublishDiagnosticJob.run(BaseDocumentLifeCycleHandler.java:798)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:16.604
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:17.073
+!MESSAGE begin problem for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:17.074
+!MESSAGE 0 problems reported for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:17.075
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:35.273
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:35.744
+!MESSAGE begin problem for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:35.745
+!MESSAGE 3 problems reported for /De1.java
+
+!ENTRY org.eclipse.core.jobs 4 2 2026-01-07 16:44:35.748
+!MESSAGE An internal error occurred during: "Publish Diagnostics".
+!STACK 0
+java.lang.IndexOutOfBoundsException
+	at org.eclipse.jdt.ls.core.internal.DocumentAdapter.getChar(DocumentAdapter.java:207)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.getSourceStart(BaseDiagnosticsHandler.java:407)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.convertRange(BaseDiagnosticsHandler.java:367)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.toDiagnosticsArray(BaseDiagnosticsHandler.java:257)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDiagnosticsHandler.endReporting(BaseDiagnosticsHandler.java:148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.reportProblems(ReconcileWorkingCopyOperation.java:157)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:126)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:751)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:816)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1431)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:338)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.publishDiagnostics(BaseDocumentLifeCycleHandler.java:301)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$PublishDiagnosticJob.run(BaseDocumentLifeCycleHandler.java:798)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:37.076
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:37.534
+!MESSAGE begin problem for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:37.534
+!MESSAGE 1 problems reported for /De1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:37.536
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:47.239
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:47.257
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:47.321
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:44:47.347
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

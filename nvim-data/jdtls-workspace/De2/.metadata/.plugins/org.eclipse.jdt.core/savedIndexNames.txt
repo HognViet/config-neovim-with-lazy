@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Viet\AppData\Local\nvim-data\jdtls-workspace\De2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+122782840.index
+708461293.index
+2972433902.index

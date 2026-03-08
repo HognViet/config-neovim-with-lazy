@@ -1,0 +1,24 @@
+
+
+1/10/2026 10:42:00 PM
+vim/shared.lua:413: after the second argument: expected table, got string
+
+stack traceback:
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'error'
+	vim/shared.lua:1045: in function 'validate'
+	vim/shared.lua:413: in function 'tbl_deep_extend'
+	...m-data/lazy/noice.nvim/lua/noice/view/backend/snacks.lua:87: in function '_notify'
+	...m-data/lazy/noice.nvim/lua/noice/view/backend/snacks.lua:126: in function 'show'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:163: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:161>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	[C]: in function 'pcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/init.lua:146: in function 'fn'
+	vim/_editor.lua:615: in function 'fn'
+	vim/_editor.lua:366: in function <vim/_editor.lua:365>

@@ -1,0 +1,2737 @@
+!SESSION 2025-12-29 20:55:58.663 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:00.557
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:00.678
+!MESSAGE Started org.eclipse.buildship.core 47ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:00.679
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:01.036
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:01.153
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:01.159
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.190
+!MESSAGE ProjectRegistryRefreshJob finished 1510ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.225
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.226
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.267
+!MESSAGE RepositoryRegistryUpdateJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.309
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.346
+!MESSAGE Workspace initialized in 81ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.356
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.493
+!MESSAGE Try to create an invisible project for the workspace D:/HocJava/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.494
+!MESSAGE Creating the Java project De2_75f43a67
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.568
+!MESSAGE Finished creating the Java project De2_75f43a67
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:02.584
+!MESSAGE Successfully created a workspace invisible project De2_75f43a67
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2025-12-29 20:56:03.553
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:03.599
+!MESSAGE >> Updating classpath for project De2_75f43a67
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:03.805
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:03.806
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:03.810
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:04.020
+!MESSAGE Reconciled 2. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:04.711
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:04.714
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:04.778
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:04.780
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:04.783
+!MESSAGE Validated 2. Took 111 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:23.430
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:23.439
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:23.463
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:23.469
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2025-12-29 20:56:29.942 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:31.453
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:31.535
+!MESSAGE Started org.eclipse.buildship.core 50ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:31.536
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:31.836
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:31.887
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:31.891
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:32.675
+!MESSAGE ProjectRegistryRefreshJob finished 1139ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:32.770
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:32.771
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:32.797
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:32.804
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:32.845
+!MESSAGE Workspace initialized in 49ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:32.860
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2025-12-29 20:56:33.798
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:33.839
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:33.840
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:33.843
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:34.015
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:34.694
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:34.696
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:56:34.699
+!MESSAGE Validated 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:06.103
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:06.221
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:06.275
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:06.648
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:06.649
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:06.649
+!MESSAGE Validated 1. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:08.323
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:08.784
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:08.785
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:08.787
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:17.819
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:18.130
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:18.182
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:18.643
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:18.644
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:18.645
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:25.074
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 20:59:35.310
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:06.431
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:06.444
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:06.467
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:06.472
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2025-12-29 21:03:11.915 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:13.355
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:13.423
+!MESSAGE Started org.eclipse.buildship.core 42ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:13.424
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:13.708
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:13.777
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:13.780
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.529
+!MESSAGE ProjectRegistryRefreshJob finished 1104ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.632
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.633
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.658
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.665
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.702
+!MESSAGE Workspace initialized in 45ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.710
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.886
+!MESSAGE >> Updating classpath for project De2_75f43a67
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.925
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:14.931
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2025-12-29 21:03:15.393
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:15.396
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:15.397
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:15.781
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:16.469
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:16.470
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:03:16.473
+!MESSAGE Validated 1. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:11:40.831
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:11:40.840
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:11:40.874
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:11:40.880
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2025-12-29 21:45:13.442 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:15.514
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:15.693
+!MESSAGE Started org.eclipse.buildship.core 125ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:15.694
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:16.325
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:16.440
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:16.450
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.488
+!MESSAGE ProjectRegistryRefreshJob finished 1793ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.626
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.627
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.671
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.685
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.711
+!MESSAGE Workspace initialized in 41ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.719
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.852
+!MESSAGE >> Updating classpath for project De2_75f43a67
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.889
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:17.900
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2025-12-29 21:45:18.913
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:18.917
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:18.919
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:19.303
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:19.937
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:19.939
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:19.941
+!MESSAGE Validated 1. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:28.263
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:28.684
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:28.688
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:45:28.692
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:46.161
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:46.173
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:46.213
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:46.220
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2025-12-29 21:54:54.266 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:56.299
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:56.422
+!MESSAGE Started org.eclipse.buildship.core 86ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:56.423
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:57.138
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:57.254
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:57.258
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:58.441
+!MESSAGE ProjectRegistryRefreshJob finished 2017ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:58.678
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:58.679
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:58.731
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:58.749
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:58.785
+!MESSAGE Workspace initialized in 55ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:54:58.793
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2025-12-29 21:55:00.533
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:55:00.536
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:55:00.536
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:55:00.539
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:55:00.629
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:55:01.305
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:55:01.307
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 21:55:01.317
+!MESSAGE Validated 1. Took 84 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 22:13:44.364
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 22:13:44.375
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 22:13:44.412
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-12-29 22:13:44.419
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-05 20:10:27.226 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:29.053
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:29.140
+!MESSAGE Started org.eclipse.buildship.core 56ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:29.140
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:29.760
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:30.041
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:30.049
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:30.856
+!MESSAGE ProjectRegistryRefreshJob finished 1715ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:30.982
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:30.983
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:30.999
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:31.004
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:31.034
+!MESSAGE Importing Eclipse project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:31.088
+!MESSAGE Workspace initialized in 89ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:31.130
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-05 20:10:31.996
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:32.368
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:32.546
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:32.548
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:32.558
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:33.003
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:33.005
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:33.008
+!MESSAGE Validated 1. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:33.013
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:33.028
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:33.065
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:10:33.072
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-05 20:11:09.586 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:11.818
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:11.979
+!MESSAGE Started org.eclipse.buildship.core 128ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:11.980
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:12.481
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:12.559
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:12.561
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:13.592
+!MESSAGE ProjectRegistryRefreshJob finished 1612ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:13.697
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:13.698
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:13.733
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:13.744
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:13.775
+!MESSAGE Workspace initialized in 39ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:13.791
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-05 20:11:15.069
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:15.090
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:15.093
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:15.118
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:15.427
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:16.160
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:16.163
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:16.167
+!MESSAGE Validated 1. Took 137 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:22.859
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:23.357
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:23.358
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:11:23.360
+!MESSAGE Validated 1. Took 48 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:15:32.145
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:15:32.163
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:15:32.256
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-05 20:15:32.267
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-07 16:45:09.455 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:11.510
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:11.682
+!MESSAGE Started org.eclipse.buildship.core 136ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:11.686
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:12.733
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:13.039
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:13.049
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:14.114
+!MESSAGE ProjectRegistryRefreshJob finished 2426ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:14.280
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:14.281
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:14.298
+!MESSAGE RepositoryRegistryUpdateJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:14.321
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:14.338
+!MESSAGE Workspace initialized in 42ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:14.345
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-07 16:45:15.560
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:15.570
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:15.572
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:15.584
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:15.945
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:16.578
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:16.580
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:16.581
+!MESSAGE Validated 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:22.242
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:22.698
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:22.699
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:22.700
+!MESSAGE Validated 1. Took 55 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:45:39.758
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:46:11.701
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:46:11.703
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:46:11.707
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 16:46:11.714
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-07 21:26:29.411 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:31.527
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:31.665
+!MESSAGE Started org.eclipse.buildship.core 97ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:31.666
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:32.246
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:32.359
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:32.377
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:33.583
+!MESSAGE ProjectRegistryRefreshJob finished 1917ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:33.753
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:33.755
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:33.775
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:33.799
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:33.824
+!MESSAGE Workspace initialized in 50ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:33.837
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-07 21:26:34.816
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:34.825
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:34.826
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:34.845
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:35.202
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:35.853
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:35.855
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:35.857
+!MESSAGE Validated 1. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:41.063
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:41.539
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:41.540
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:26:41.541
+!MESSAGE Validated 1. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:27:42.048
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:28:21.721
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:28:21.723
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:28:21.725
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-07 21:28:21.735
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-08 21:37:32.414 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:33.879
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:33.952
+!MESSAGE Started org.eclipse.buildship.core 46ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:33.953
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:34.183
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:34.283
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:34.290
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.009
+!MESSAGE ProjectRegistryRefreshJob finished 1056ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:37:35.109
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:37:35.109
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:37:35.109
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:37:35.110
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.115
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.116
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.117
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.118
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.118
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.119
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.135
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.143
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.159
+!MESSAGE Workspace initialized in 24ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.167
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:37:35.758
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.777
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.778
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:35.784
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:36.150
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:36.773
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:36.774
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:36.775
+!MESSAGE Validated 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:38.715
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:39.133
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:39.135
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:37:39.136
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:10.514
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:10.802
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:11.001
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:11.157
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:11.315
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:11.471
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:11.651
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:11.852
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:12.309
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:12.311
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:12.322
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:12.322
+!MESSAGE 5 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:12.324
+!MESSAGE Validated 2. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:16.014
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:16.024
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:16.155
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:16.584
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:16.585
+!MESSAGE 1 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:16.586
+!MESSAGE Validated 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:17.227
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:17.685
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:17.686
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:17.701
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:17.702
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:17.703
+!MESSAGE Validated 2. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:21.321
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:21.734
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:21.735
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:21.736
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:23.225
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:23.632
+!MESSAGE begin problem for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:23.634
+!MESSAGE 0 problems reported for /Bai2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:23.642
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:23.644
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:23.645
+!MESSAGE Validated 2. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:24.489
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:24.900
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:24.902
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:38:24.903
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:27.043
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:27.057
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:27.095
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:27.103
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-08 21:41:39.586 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:41.016
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:41.091
+!MESSAGE Started org.eclipse.buildship.core 47ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:41.091
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:41.336
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:41.406
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:41.411
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.044
+!MESSAGE ProjectRegistryRefreshJob finished 952ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:41:42.107
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:41:42.107
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:41:42.108
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:41:42.108
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.115
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.116
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.116
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.117
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.117
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.118
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.132
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.136
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.151
+!MESSAGE Workspace initialized in 20ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.158
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:41:42.793
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.811
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.811
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:42.813
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:43.179
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:43.820
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:43.821
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:41:43.823
+!MESSAGE Validated 1. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:10.260
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:10.269
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:10.311
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:10.319
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-08 21:56:21.395 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:22.819
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:22.890
+!MESSAGE Started org.eclipse.buildship.core 46ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:22.891
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.130
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.206
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.210
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.833
+!MESSAGE ProjectRegistryRefreshJob finished 942ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:56:23.919
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:56:23.919
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:56:23.920
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:56:23.920
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.929
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.931
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.932
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.932
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.933
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.933
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.949
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.953
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.971
+!MESSAGE Workspace initialized in 23ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:23.985
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:56:24.533
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:24.550
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:24.551
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:24.557
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:24.930
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:25.566
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:25.567
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:25.572
+!MESSAGE Validated 1. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:37.228
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:37.238
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:37.276
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:56:37.283
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-08 21:57:14.223 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:15.623
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:15.690
+!MESSAGE Started org.eclipse.buildship.core 41ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:15.690
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:15.920
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:15.997
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.000
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.628
+!MESSAGE ProjectRegistryRefreshJob finished 937ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:57:16.709
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:57:16.710
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:57:16.710
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 21:57:16.710
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.718
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.720
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.720
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.721
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.721
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.722
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.735
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.740
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.755
+!MESSAGE Workspace initialized in 20ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:16.763
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 21:57:17.335
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:17.349
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:17.349
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:17.351
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:17.780
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:18.468
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:18.469
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:18.472
+!MESSAGE Validated 1. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:28.705
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:29.172
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:29.173
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:29.174
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:33.347
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:33.714
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:34.133
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:34.134
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 21:57:34.135
+!MESSAGE Validated 1. Took 18 ms
+
+!ENTRY java-debug 1 0 2026-01-08 21:57:55.370
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY java-debug 4 0 2026-01-08 21:57:55.475
+!MESSAGE [error response][launch]: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+!STACK 0
+com.microsoft.java.debug.core.DebugException: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+	at com.microsoft.java.debug.core.adapter.AdapterUtils.createCompletionException(AdapterUtils.java:270)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handleLaunchCommand(LaunchRequestHandler.java:103)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handle(LaunchRequestHandler.java:95)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.lambda$dispatchRequest$0(DebugAdapter.java:94)
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1233)
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2393)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.dispatchRequest(DebugAdapter.java:93)
+	at com.microsoft.java.debug.core.adapter.ProtocolServer.dispatchRequest(ProtocolServer.java:132)
+	at com.microsoft.java.debug.core.protocol.AbstractProtocolServer.lambda$new$0(AbstractProtocolServer.java:81)
+	at io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:63)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:201)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:255)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.run(ScheduledRunnable.java:66)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.call(ScheduledRunnable.java:57)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+
+!ENTRY java-debug 1 0 2026-01-08 21:57:55.481
+!MESSAGE Debug connection closed
+
+!ENTRY java-debug 1 0 2026-01-08 21:58:04.594
+!MESSAGE Trying to attach to remote debuggee VM localhost:5005 .
+
+!ENTRY java-debug 4 0 2026-01-08 21:58:04.613
+!MESSAGE [error response][attach]: Failed to attach to remote debuggee VM. Reason: java.io.IOException: Failed to attach to localhost:5005 (attach timeout 30000, handshake timeout 0)
+!STACK 0
+com.microsoft.java.debug.core.DebugException: Failed to attach to remote debuggee VM. Reason: java.io.IOException: Failed to attach to localhost:5005 (attach timeout 30000, handshake timeout 0)
+	at com.microsoft.java.debug.core.adapter.AdapterUtils.createCompletionException(AdapterUtils.java:266)
+	at com.microsoft.java.debug.core.adapter.handler.AttachRequestHandler.handle(AttachRequestHandler.java:81)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.lambda$dispatchRequest$0(DebugAdapter.java:94)
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1233)
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2393)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.dispatchRequest(DebugAdapter.java:93)
+	at com.microsoft.java.debug.core.adapter.ProtocolServer.dispatchRequest(ProtocolServer.java:132)
+	at com.microsoft.java.debug.core.protocol.AbstractProtocolServer.lambda$new$0(AbstractProtocolServer.java:81)
+	at io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:63)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:201)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:255)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.run(ScheduledRunnable.java:66)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.call(ScheduledRunnable.java:57)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Caused by: java.io.IOException: Failed to attach to localhost:5005 (attach timeout 30000, handshake timeout 0)
+	at org.eclipse.jdi.internal.connect.SocketTransportService.attach(SocketTransportService.java:175)
+	at org.eclipse.jdi.internal.connect.SocketTransportImpl.attach(SocketTransportImpl.java:49)
+	at org.eclipse.jdi.internal.connect.SocketAttachingConnectorImpl.attach(SocketAttachingConnectorImpl.java:138)
+	at com.microsoft.java.debug.core.DebugUtility.attach(DebugUtility.java:304)
+	at com.microsoft.java.debug.core.adapter.handler.AttachRequestHandler.handle(AttachRequestHandler.java:75)
+	... 16 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:535)
+	at java.base/sun.nio.ch.Net.connect(Net.java:524)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:574)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:282)
+	at java.base/java.net.Socket.connect(Socket.java:665)
+	at java.base/java.net.Socket.connect(Socket.java:603)
+	at java.base/java.net.Socket.<init>(Socket.java:470)
+	at java.base/java.net.Socket.<init>(Socket.java:276)
+	at org.eclipse.jdi.internal.connect.SocketTransportService$2.run(SocketTransportService.java:133)
+	... 1 more
+
+!ENTRY java-debug 1 0 2026-01-08 21:58:04.617
+!MESSAGE Debug connection closed
+
+!ENTRY java-debug 4 0 2026-01-08 22:02:29.263
+!MESSAGE [error response][launch]: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+!STACK 0
+com.microsoft.java.debug.core.DebugException: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+	at com.microsoft.java.debug.core.adapter.AdapterUtils.createCompletionException(AdapterUtils.java:270)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handleLaunchCommand(LaunchRequestHandler.java:103)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handle(LaunchRequestHandler.java:95)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.lambda$dispatchRequest$0(DebugAdapter.java:94)
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1233)
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2393)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.dispatchRequest(DebugAdapter.java:93)
+	at com.microsoft.java.debug.core.adapter.ProtocolServer.dispatchRequest(ProtocolServer.java:132)
+	at com.microsoft.java.debug.core.protocol.AbstractProtocolServer.lambda$new$0(AbstractProtocolServer.java:81)
+	at io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:63)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:201)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:255)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.run(ScheduledRunnable.java:66)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.call(ScheduledRunnable.java:57)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+
+!ENTRY java-debug 1 0 2026-01-08 22:02:29.265
+!MESSAGE Debug connection closed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:04:45.502
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:04:45.512
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:04:45.530
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:04:45.536
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-08 22:05:39.377 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:40.753
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:40.818
+!MESSAGE Started org.eclipse.buildship.core 40ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:40.819
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.041
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.102
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.105
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.744
+!MESSAGE ProjectRegistryRefreshJob finished 925ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 22:05:41.845
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-08 22:05:41.846
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 22:05:41.846
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 22:05:41.846
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.853
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.854
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.855
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.856
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.856
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.857
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.873
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.876
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.894
+!MESSAGE Workspace initialized in 21ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:41.898
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 22:05:42.541
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:42.556
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:42.556
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:42.559
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:42.934
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:43.621
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:43.622
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:05:43.628
+!MESSAGE Validated 1. Took 41 ms
+
+!ENTRY java-debug 1 0 2026-01-08 22:05:59.588
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY java-debug 4 0 2026-01-08 22:05:59.690
+!MESSAGE [error response][launch]: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+!STACK 0
+com.microsoft.java.debug.core.DebugException: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+	at com.microsoft.java.debug.core.adapter.AdapterUtils.createCompletionException(AdapterUtils.java:270)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handleLaunchCommand(LaunchRequestHandler.java:103)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handle(LaunchRequestHandler.java:95)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.lambda$dispatchRequest$0(DebugAdapter.java:94)
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1233)
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2393)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.dispatchRequest(DebugAdapter.java:93)
+	at com.microsoft.java.debug.core.adapter.ProtocolServer.dispatchRequest(ProtocolServer.java:132)
+	at com.microsoft.java.debug.core.protocol.AbstractProtocolServer.lambda$new$0(AbstractProtocolServer.java:81)
+	at io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:63)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:201)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:255)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.run(ScheduledRunnable.java:66)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.call(ScheduledRunnable.java:57)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+
+!ENTRY java-debug 1 0 2026-01-08 22:05:59.694
+!MESSAGE Debug connection closed
+
+!ENTRY java-debug 4 0 2026-01-08 22:06:12.198
+!MESSAGE [error response][launch]: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+!STACK 0
+com.microsoft.java.debug.core.DebugException: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+	at com.microsoft.java.debug.core.adapter.AdapterUtils.createCompletionException(AdapterUtils.java:270)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handleLaunchCommand(LaunchRequestHandler.java:103)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handle(LaunchRequestHandler.java:95)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.lambda$dispatchRequest$0(DebugAdapter.java:94)
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1233)
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2393)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.dispatchRequest(DebugAdapter.java:93)
+	at com.microsoft.java.debug.core.adapter.ProtocolServer.dispatchRequest(ProtocolServer.java:132)
+	at com.microsoft.java.debug.core.protocol.AbstractProtocolServer.lambda$new$0(AbstractProtocolServer.java:81)
+	at io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:63)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:201)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:255)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.run(ScheduledRunnable.java:66)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.call(ScheduledRunnable.java:57)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+
+!ENTRY java-debug 1 0 2026-01-08 22:06:12.201
+!MESSAGE Debug connection closed
+
+!ENTRY java-debug 4 0 2026-01-08 22:06:27.949
+!MESSAGE [error response][launch]: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+!STACK 0
+com.microsoft.java.debug.core.DebugException: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+	at com.microsoft.java.debug.core.adapter.AdapterUtils.createCompletionException(AdapterUtils.java:270)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handleLaunchCommand(LaunchRequestHandler.java:103)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handle(LaunchRequestHandler.java:95)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.lambda$dispatchRequest$0(DebugAdapter.java:94)
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1233)
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2393)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.dispatchRequest(DebugAdapter.java:93)
+	at com.microsoft.java.debug.core.adapter.ProtocolServer.dispatchRequest(ProtocolServer.java:132)
+	at com.microsoft.java.debug.core.protocol.AbstractProtocolServer.lambda$new$0(AbstractProtocolServer.java:81)
+	at io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:63)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:201)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:255)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.run(ScheduledRunnable.java:66)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.call(ScheduledRunnable.java:57)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+
+!ENTRY java-debug 1 0 2026-01-08 22:06:27.951
+!MESSAGE Debug connection closed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:08:48.765
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:08:48.774
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:08:48.797
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:08:48.802
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-08 22:09:30.855 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:32.269
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:32.338
+!MESSAGE Started org.eclipse.buildship.core 43ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:32.339
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:32.568
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:32.643
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:32.645
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.281
+!MESSAGE ProjectRegistryRefreshJob finished 942ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 22:09:33.362
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-08 22:09:33.363
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 22:09:33.363
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-08 22:09:33.363
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.371
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.373
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.373
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.374
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.374
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.375
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.389
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.394
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.412
+!MESSAGE Workspace initialized in 23ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:33.416
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-08 22:09:34.062
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:34.081
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:34.082
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:34.085
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:34.448
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:35.087
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:35.089
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:09:35.094
+!MESSAGE Validated 1. Took 43 ms
+
+!ENTRY java-debug 1 0 2026-01-08 22:10:28.618
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY java-debug 4 0 2026-01-08 22:10:28.715
+!MESSAGE [error response][launch]: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+!STACK 0
+com.microsoft.java.debug.core.DebugException: Failed to launch debuggee VM. Missing mainClass or modulePaths/classPaths options in launch configuration.
+	at com.microsoft.java.debug.core.adapter.AdapterUtils.createCompletionException(AdapterUtils.java:270)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handleLaunchCommand(LaunchRequestHandler.java:103)
+	at com.microsoft.java.debug.core.adapter.handler.LaunchRequestHandler.handle(LaunchRequestHandler.java:95)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.lambda$dispatchRequest$0(DebugAdapter.java:94)
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1233)
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2393)
+	at com.microsoft.java.debug.core.adapter.DebugAdapter.dispatchRequest(DebugAdapter.java:93)
+	at com.microsoft.java.debug.core.adapter.ProtocolServer.dispatchRequest(ProtocolServer.java:132)
+	at com.microsoft.java.debug.core.protocol.AbstractProtocolServer.lambda$new$0(AbstractProtocolServer.java:81)
+	at io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:63)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:201)
+	at io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:255)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.run(ScheduledRunnable.java:66)
+	at io.reactivex.internal.schedulers.ScheduledRunnable.call(ScheduledRunnable.java:57)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+
+!ENTRY java-debug 1 0 2026-01-08 22:10:28.719
+!MESSAGE Debug connection closed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:12:57.639
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:12:57.649
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:12:57.687
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-08 22:12:57.695
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-10 23:15:50.446 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:53.043
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:53.140
+!MESSAGE Started org.eclipse.buildship.core 59ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:53.141
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:53.612
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:53.824
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:53.833
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.717
+!MESSAGE ProjectRegistryRefreshJob finished 1576ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.889
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-debug-adapter/extension/server/com.microsoft.java.debug.plugin-0.53.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.894
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/com.microsoft.java.test.plugin-0.43.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.901
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-api_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.909
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.914
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-migrationsupport_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.921
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-params_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.926
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.931
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.936
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-launcher_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.941
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-runner_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.947
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-suite-api_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.954
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-suite-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.959
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-suite-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.965
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-vintage-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.970
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.975
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.eclipse.jdt.junit4.runtime_1.3.100.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.980
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.eclipse.jdt.junit5.runtime_1.1.300.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.985
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.jacoco.core_0.8.14.202510111229.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:54.990
+!MESSAGE Installed reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.opentest4j_1.3.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.012
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.eclipse.jdt.junit4.runtime_1.3.100.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.018
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-suite-api_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.024
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-api_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.032
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-suite-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.064
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/com.microsoft.java.test.plugin-0.43.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.065
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-engine_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.067
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-launcher_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.068
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.eclipse.jdt.junit5.runtime_1.1.300.v20231214-1952.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.070
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-suite-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.071
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-migrationsupport_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.073
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-commons_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.074
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-platform-runner_1.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.075
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-params_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.077
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.opentest4j_1.3.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.078
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.080
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-jupiter-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.081
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/junit-vintage-engine_5.11.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.082
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-test/extension/server/org.jacoco.core_0.8.14.202510111229.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.094
+!MESSAGE Started reference:file:/C:/Users/Viet/AppData/Local/nvim-data/mason/packages/java-debug-adapter/extension/server/com.microsoft.java.debug.plugin-0.53.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:15:55.096
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:15:55.099
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:15:55.099
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:15:55.099
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.138
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.139
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.139
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.140
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.142
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.142
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.217
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.260
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.316
+!MESSAGE Workspace initialized in 101ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:55.327
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:15:56.295
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:56.309
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:56.310
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:56.320
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:56.682
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:57.334
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:57.336
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:15:57.342
+!MESSAGE Validated 1. Took 59 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:17:04.413
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:17:04.424
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:17:04.494
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:17:04.505
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-10 23:20:58.930 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:00.764
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:00.845
+!MESSAGE Started org.eclipse.buildship.core 47ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:00.846
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:01.210
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:01.270
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:01.273
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.049
+!MESSAGE ProjectRegistryRefreshJob finished 1202ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:02.153
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:02.154
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:02.154
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:02.154
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.163
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.164
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.165
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.165
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.166
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.167
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.185
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.192
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.216
+!MESSAGE Workspace initialized in 31ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:02.227
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:03.065
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:03.084
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:03.084
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:03.086
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:03.453
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:04.109
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:04.111
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:04.116
+!MESSAGE Validated 1. Took 60 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:25.549
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:25.560
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:25.642
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:25.654
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-10 23:21:41.887 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:43.865
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:43.952
+!MESSAGE Started org.eclipse.buildship.core 57ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:43.953
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:44.219
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:44.287
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:44.290
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.074
+!MESSAGE ProjectRegistryRefreshJob finished 1120ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:45.196
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:45.197
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:45.197
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:45.197
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.207
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.208
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.209
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.210
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.211
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.211
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.230
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.235
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.258
+!MESSAGE Workspace initialized in 27ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:45.270
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:21:46.060
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:46.075
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:46.076
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:46.078
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:46.497
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:47.207
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:47.208
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:21:47.212
+!MESSAGE Validated 1. Took 63 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:07.251
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:07.262
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:07.336
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:07.348
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-10 23:22:10.139 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:12.162
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:12.262
+!MESSAGE Started org.eclipse.buildship.core 66ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:12.263
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:12.574
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:12.656
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:12.662
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.475
+!MESSAGE ProjectRegistryRefreshJob finished 1211ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:22:13.586
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:22:13.587
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:22:13.587
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-10 23:22:13.587
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.597
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.598
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.599
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.600
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.601
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.601
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.619
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.626
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.645
+!MESSAGE Workspace initialized in 27ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:13.659
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-10 23:22:14.385
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:14.405
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:14.406
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:14.409
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:14.769
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:15.423
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:15.426
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:15.431
+!MESSAGE Validated 1. Took 59 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:31.561
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:31.570
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:31.641
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-10 23:22:31.652
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-01-14 08:25:15.775 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -data C:\Users\Viet\AppData\Local\nvim-data/jdtls-workspace/De2
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:18.634
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:18.753
+!MESSAGE Started org.eclipse.buildship.core 74ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:18.754
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:19.273
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:19.396
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:19.404
+!MESSAGE Initializing Java Language Server 1.54.0.202511261751
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.343
+!MESSAGE ProjectRegistryRefreshJob finished 1589ms
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-14 08:25:20.640
+!MESSAGE Failed to load extension bundles 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Load bundle list
+	at org.eclipse.jdt.ls.core.internal.handlers.BundleUtils.loadBundles(BundleUtils.java:175)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler.handleInitializationOptions(InitHandler.java:99)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseInitHandler.initialize(BaseInitHandler.java:72)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.initialize(JDTLanguageServer.java:286)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$1(ParentProcessWatcher.java:91)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+Contains: Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 0 2026-01-14 08:25:20.641
+!MESSAGE Load bundle list
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-14 08:25:20.641
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\com.microsoft.java.test.runner-jar-with-dependencies.jar
+!SUBENTRY 2 org.eclipse.jdt.ls.core 4 0 2026-01-14 08:25:20.642
+!MESSAGE Failed to get bundleInfo for bundle from C:\Users\Viet\AppData\Local\nvim-data\mason\packages\java-test\extension\server\jacocoagent.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.666
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.669
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.getTroubleshootingInfo, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.670
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.671
+!MESSAGE Non-Static Commands: [vscode.java.test.jacoco.getCoverageDetail, vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.672
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.674
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.713
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.728
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.752
+!MESSAGE Workspace initialized in 40ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:20.775
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-01-14 08:25:21.995
+!MESSAGE Command _java.reloadBundles.command not supported on client
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:22.004
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:22.005
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:22.018
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:22.382
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:23.076
+!MESSAGE begin problem for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:23.081
+!MESSAGE 2 problems reported for /De2.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:25:23.086
+!MESSAGE Validated 1. Took 101 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:28:59.555
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:28:59.590
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:28:59.688
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-01-14 08:28:59.696
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
